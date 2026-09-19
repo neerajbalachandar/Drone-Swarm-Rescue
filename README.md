@@ -1,2 +1,1 @@
-# CIEDS-ENSTA Ecole Polytechnique de Paris Challenge 2024 - Drone Swarm Rescue
-Multi-agent system path-planning.
+A decentralized control algorithm for path planning of multi-UAV for rescue and navigation in a resource-constrained environment. This work is simulated on simple-playgrounds. The work is part of the swarm-rescue challenge hosted by CIEDS, Institut Polytechnique de Paris.
